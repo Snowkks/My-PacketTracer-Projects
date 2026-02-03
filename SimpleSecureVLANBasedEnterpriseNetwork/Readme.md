@@ -4,5 +4,5 @@ This project simulates a small enterprise network designed with basic security p
 The network is segmented by trust level using VLANs, and inter-VLAN communication is controlled using Access Control Lists (ACLs).
 
 ## Diagram
-![Description of Image](example.png)
+![Example](example.png)
 
